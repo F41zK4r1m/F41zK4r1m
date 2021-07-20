@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+### I am Faiz Karim, just a techie working in field of defensive security.
+### Intrested in offesnive & defensive security.
+### TryHackMe @ https://bit.ly/3kxSBsJ
+![image](https://user-images.githubusercontent.com/87700008/126310526-3e6df91d-bd70-4381-b76e-51582e3ea6d4.png)
+### Reach me @ www.linkedin.com/in/faiz-karim-8421bb195/
 <!--
 **F41zK4r1m/F41zK4r1m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
