@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I am Faiz Karim, just a techie working in field of defensive security.
+### I am Faiz Karim, just a techie working in field of defensive cyber security.
 ### Intrested in offesnive & defensive security.
 ### TryHackMe @ https://bit.ly/3kxSBsJ
 ![image](https://user-images.githubusercontent.com/87700008/126310526-3e6df91d-bd70-4381-b76e-51582e3ea6d4.png)
