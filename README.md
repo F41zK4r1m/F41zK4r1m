@@ -2,7 +2,6 @@
 ### I am Faiz Karim, just a techie working in field of defensive cyber security.
 ### Interested in offensive & defensive security.
 ### TryHackMe @ https://bit.ly/3kxSBsJ
-<img src="https://tryhackme-badges.s3.amazonaws.com/KillerKareem.png" alt="TryHackMe">
 ![image](https://user-images.githubusercontent.com/87700008/126310526-3e6df91d-bd70-4381-b76e-51582e3ea6d4.png)
 ### Reach me @ www.linkedin.com/in/faiz-karim-8421bb195/
 <!--
