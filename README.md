@@ -1,6 +1,6 @@
 ### Hi there 👋
-### I am Faiz Karim, just a techie working in field of defensive cyber security.
-### Interested in offensive & defensive security.
+### I am Faiz Karim, just an engineer working in field of cyber security.
+### Interested in offensive security more into network pentest.
 ### TryHackMe @ https://bit.ly/3kxSBsJ
 ![image](https://user-images.githubusercontent.com/87700008/205730184-5e371265-f8e8-4d06-b11e-7759e9583504.png)
 ### Reach me @ www.linkedin.com/in/faiz-karim-8421bb195/
