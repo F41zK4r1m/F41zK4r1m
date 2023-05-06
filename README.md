@@ -5,7 +5,7 @@
 ![image](https://user-images.githubusercontent.com/87700008/205730184-5e371265-f8e8-4d06-b11e-7759e9583504.png)
 
 ### HackTheBox @ https://bit.ly/3BMAGWW
-![image](https://user-images.githubusercontent.com/87700008/208545411-98e71e1a-4c33-4edf-8b3f-361c4345326d.png)
+![image](https://user-images.githubusercontent.com/87700008/236646288-3f82d330-dbb6-4ca7-a5ec-63dbc0b6f6f4.png)
 
 ### Reach me @ www.linkedin.com/in/faiz-karim-8421bb195/
 <!--
