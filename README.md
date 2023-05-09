@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=f41zk4r1m" alt="f41zk4r1m" /></a> </p>
 
-- 👊 TryHackMe [https://bit.ly/3kxSBsJ](https://bit.ly/3kxSBsJ)
-- ![image](https://user-images.githubusercontent.com/87700008/236646288-3f82d330-dbb6-4ca7-a5ec-63dbc0b6f6f4.png)
+ 👊 TryHackMe [https://bit.ly/3kxSBsJ](https://bit.ly/3kxSBsJ)
+ ![image](https://user-images.githubusercontent.com/87700008/236646288-3f82d330-dbb6-4ca7-a5ec-63dbc0b6f6f4.png)
 
-- 🤘 HackTheBox [https://bit.ly/3BMAGWW](https://bit.ly/3BMAGWW)
-- ![image](https://user-images.githubusercontent.com/87700008/205730184-5e371265-f8e8-4d06-b11e-7759e9583504.png)
+ 🤘 HackTheBox [https://bit.ly/3BMAGWW](https://bit.ly/3BMAGWW)
+ ![image](https://user-images.githubusercontent.com/87700008/205730184-5e371265-f8e8-4d06-b11e-7759e9583504.png)
 
-- 👨‍💻 All of my projects are available at [https://github.com/F41zK4r1m](https://github.com/F41zK4r1m)
+ 👨‍💻 All of my projects are available at [https://github.com/F41zK4r1m](https://github.com/F41zK4r1m)
 
-- 📝 I regularly write articles on [https://github.com/F41zK4r1m](https://github.com/F41zK4r1m)
+ 📝 I regularly write articles on [https://github.com/F41zK4r1m](https://github.com/F41zK4r1m)
 
-- 💬 Ask me about **cybersecurity**
+ 💬 Ask me about **cybersecurity**
 
-- 📫 How to reach me **www.linkedin.com/in/faiz-karim-8421bb195/**
+ 📫 How to reach me **www.linkedin.com/in/faiz-karim-8421bb195/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
