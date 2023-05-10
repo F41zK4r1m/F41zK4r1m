@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.careerguide.com%2Fcareer%2Fwp-content%2Fuploads%2F2020%2F02%2F20160628_1516_FTI_Cyber_Security.gif&f=1&nofb=1&ipt=d1b833c5dc69ce678f72dda3c0c94c5d5576f48c598d552ae33f7311e00ca430&ipo=images))]
+[![MasterHead](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.careerguide.com%2Fcareer%2Fwp-content%2Fuploads%2F2020%2F02%2F20160628_1516_FTI_Cyber_Security.gif&f=1&nofb=1&ipt=d1b833c5dc69ce678f72dda3c0c94c5d5576f48c598d552ae33f7311e00ca430&ipo=images)]
 
 <h1 align="center">Hi 👋, I'm Faiz Karim</h1>
 <h3 align="center">just an engineer working in field of cyber security</h3>
@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=f41zk4r1m&label=Profile%20views&color=0e75b6&style=flat" alt="f41zk4r1m" /> </p>
 
 - 👊 TryHackMe [https://bit.ly/3kxSBsJ](https://bit.ly/3kxSBsJ)
- <br>
+ 
  ![image](https://user-images.githubusercontent.com/87700008/205730184-5e371265-f8e8-4d06-b11e-7759e9583504.png)
 
 - 🤘 HackTheBox [https://bit.ly/3BMAGWW](https://bit.ly/3BMAGWW)
